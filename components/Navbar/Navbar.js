@@ -11,7 +11,6 @@ export const Navbar = () => {
       <NavbarLink text="Go Racing" />
       <NavbarLink text="Our Story" />
       <NavbarLink text="Merchandise" />
-
       <NavbarButton text="Build your car" />
     </div>
   );
