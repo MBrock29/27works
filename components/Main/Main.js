@@ -5,7 +5,7 @@ import { MainBreadcrumbs } from "./MainBreadcrumbs";
 
 export const Main = () => {
   return (
-    <div className="flex flex-col w-full max-w-[820px] pt-[490px]">
+    <div className="flex flex-col w-full max-w-[820px] pt-[600px]">
       <MainBreadcrumbs />
       <h1 className="uppercase text-yellow text-5xl font-bold max-w-[750px] mb-[19px]">
         Radical unveils track-only 'project 25' racer
