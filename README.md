@@ -8,4 +8,6 @@ Creating a gradient border for the carousel cards proved tricky so I replaced it
 
 I am aware that the final image in the carousel cuts off. With more time I would sort a fix for this.
 
+In a real world environment I would make the application responsive for different screen sizes.
+
 Project can be found here: https://27works.vercel.app/
