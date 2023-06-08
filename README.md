@@ -7,3 +7,5 @@ I have not included a links component for the breadcrumbs as I had no links but 
 Creating a gradient border for the carousel cards proved tricky so I replaced it with the grey.
 
 I am aware that the final image in the carousel cuts off. With more time I would sort a fix for this.
+
+Project can be found here: https://27works.vercel.app/
